@@ -26,4 +26,7 @@ In this project, I used **Terraform** to:
 ---
 
 ## 📁 Project Structure
+terraform-practise
+├── main.tf # Main Terraform configuration
+└── README.md # Project documentation
 
